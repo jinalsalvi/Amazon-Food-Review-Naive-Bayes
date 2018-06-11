@@ -1,6 +1,6 @@
 # Amazom Food Review Naive Bayes
 ## Introduction   
- This python notebook for Amazon food reviews polarity prediction based on the given review data by applying Naive Bayes algorithm which is based on Bayes probability model. To build generalized prediction model first step should be necessary cleaning of data as a part of data preprocessing.    
+ This python notebook is for Amazon food reviews polarity prediction based on the given review data by applying Naive Bayes algorithm which is based on Bayes probability model. To build generalized prediction model first step should be necessary cleaning of data as a part of data preprocessing.    
         
  We will perform following data preprocessing.    
         
