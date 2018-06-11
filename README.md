@@ -19,3 +19,5 @@
         
  __Note: As word2vec generate vector with negative valuel we can not use it for Naive Bays algorithm as it accepts positive values only as a imput vector.__   
     
+### Download notebook and data from Kaggle
+#### https://www.kaggle.com/jinalsalvi/review-prediction-by-naive-bayes
